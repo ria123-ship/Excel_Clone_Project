@@ -25,7 +25,7 @@ Steps to Run Locally:
 Clone the repository:
 bash
 Copy code
-git clone (https://github.com/AkhileshYadav7007/Excel_Clone_Project.git)
+git clone https://ria123-ship.github.io/Excel_Clone_Project/
 Navigate to the project directory:
 bash
 Copy code
